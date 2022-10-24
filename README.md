@@ -4,4 +4,7 @@ The client is invited by a solar PV station company to inject capital in the JV 
 **The requirement**  
 Decompose, downside and sample the big data for further analysis, including optimization modeling, machine learning and financial modeling.  
 **Our solution**  
-With our methodology, we will generate the electricy demand dataset and power generating dataset for analysis. The way we are using is to downside the dataset as a smaller dataset that retains the key information of the orginial one, and breaks into 6 steps to complete.
+With our methodology, we will generate the electricy demand dataset and power generating dataset for analysis. The way we are using is to downside the dataset as a smaller dataset that retains the key information of the orginial one, and breaks into 6 steps to complete.  
+**KPI**  
+- Achieve maximum reduction of Big Data. 
+- Achieve minimum loss of inforamtion.
