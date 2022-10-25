@@ -1,6 +1,6 @@
 # Project_Data-analysis-on-Power-Station-Dataset
-**Client backgorund**  
-The client is invited by a solar PV station company to inject capital in the JV which invests on the new power stations,and he hopes to evaluate the return based on the market and economics analysis from estimating the electricity supply and demand in the following years.  
+**client backgorund**  
+The client is invited by a solar PV station company to inject capital in the Joint Vanture which invests on the new power stations,and he hopes to evaluate the return based on the market and economics analysis from estimating the electricity supply and demand in the following years.  
 
 **Requirements**  
 Decompose, downside and sample the big data for further analysis, including optimization modeling, machine learning and financial modeling.  
