@@ -10,7 +10,7 @@ Decompose, downside and sample the big data for further analysis, including opti
 - How much loss of information that the signals(demand & generation of electricity) drive investments are not distorted?    
 
 **Our solution**  
-There are several methods for data cleaning on the differnt fronts. Including handling missing values, scaling and normalization, parsing dates and chareacter encodings. With our methodology, we will generate the electricy demand dataset and power generating dataset for analysis. The way we are using is to downside the dataset as a smaller dataset that retains the key information of the orginial one, and breaks into 6 steps to complete.  
+There are several methods for data cleaning on the differnt fronts. Including handling missing values, scaling and normalization, parsing dates, chareacter encodings and inconsistent data entries. With our methodology, we will generate the electricy demand dataset and power generating dataset for analysis. The way we are using is to downside the dataset as a smaller dataset that retains the key information of the orginial one, and breaks into 6 steps to complete.  
 
 **KPI**  
 - Achieve maximum reduction of Big Data. 
